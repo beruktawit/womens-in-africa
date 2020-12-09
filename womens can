@@ -1,6 +1,7 @@
 <html>
     </head>
     <title>African womens</title>
+    <link href="styling.css" rel="stylesheet">
     <body>
     
     <h1>How womens suffer</h1>
@@ -21,8 +22,7 @@ Across five regions, 82 per cent of women parliamentarians reported having exper
 
       <img src="img/african women.jpg"width=300px height=250px">
     
-    
-        <body text="blue" bgcolor="yellow">                                                
+                                                
                                                         
   </body>
   </html>
